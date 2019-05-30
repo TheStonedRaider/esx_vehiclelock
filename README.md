@@ -1,6 +1,8 @@
 # esx_vehiclelock
 
 Simple vehicle lock system. Press U or DPAD-DOWN on a controller to toggle the lock.
+changed to detect all vehicles
+added police and ambulance so they can unlock all vehicles 
 
 ## Requirements
 
